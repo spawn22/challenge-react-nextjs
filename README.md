@@ -1,5 +1,5 @@
 # Challenge: Implementar catálogo de productos con 
-# FILTROS COMBINADOS en el backend
+# FILTROS COMBINADOS Modificado para Frontend
 
 ## Requisitos:
 
